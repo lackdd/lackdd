@@ -1,4 +1,11 @@
 ## Hi there 👋
+https://github.com/lackdd/racetrack
+https://github.com/lackdd/match-me
+https://github.com/lackdd/Movies-REST-API
+https://github.com/lackdd/Itinerary-prettifier
+https://github.com/lackdd/TV-app-UI
+https://github.com/lackdd/cypher-notes
+https://github.com/lackdd/notes-editor
 
 <!--
 **lackdd/lackdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
